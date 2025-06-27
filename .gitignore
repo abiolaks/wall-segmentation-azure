@@ -192,3 +192,9 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# Project specific ignores
+data/
+.azureml/runs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
